@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Apps</string>
+
+    <!-- Text to show user in place of a gadget when we can't display it properly -->
+    <string name="gadget_error_text">Problem loading widget</string>
+
+    <!-- Text to show user in place of a gadget when it is not yet initialized. -->
+    <string name="gadget_setup_text">Setup</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

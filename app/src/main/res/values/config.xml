@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App lifecycle -->
+    <integer name="app_frequent_use_default">@integer/app_frequent_use_two_weeks</integer>
+    <integer name="app_frequent_use_one_week">5</integer>
+    <integer name="app_frequent_use_two_weeks">15</integer>
+    <integer name="app_frequent_use_one_month">28</integer>
+</resources>
